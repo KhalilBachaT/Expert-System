@@ -1,0 +1,2 @@
+INDEX VERSION 1.130+F:\2CS-SIW\ING_CONN\SYSTEM_EXPERT\.metadata\.plugins\org.eclipse.jdt.core
+1067094681.index

@@ -1,0 +1,15 @@
+import java.util.*;
+
+public class SYSTEM_EX {
+    /* add class or method in this class to convert the strings from the file to a map which has the name BR */
+
+    public ArrayList<String> Search(){
+
+    }
+    public void ChainageAvant(HashMap<> BR,ArrayList<String> BF,String F){
+
+    }
+    public void ChainageArriere(HashMap<> BR,ArrayList<String> BF,String F){
+
+    }
+}
